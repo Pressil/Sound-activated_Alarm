@@ -1,13 +1,18 @@
-# Sound-Activated Alarm (Clap Switch)
+# Sound-Activated Alarm 
 
 ## 📖 Introduction
 The **Sound-Activated Alarm** (also known as a Clap Switch) is a purely hardware-based, analog circuit. It detects sharp acoustic sounds—like a hand clap or a finger snap—and triggers a temporary visual (LED) and auditory (Buzzer) response. Built completely without microcontrollers or code, this project demonstrates fundamental electronics principles, relying entirely on physical hardware logic and the highly versatile 555 Timer IC operating in monostable mode.
 
 ## 📸 Prototype
-![Prototype Image](replace-with-your-image-path.jpg)
-*Figure 1: The assembled Sound-Activated Alarm circuit on a perfboard.*
 
-**[View Full Project Documentation Here](https://drive.google.com/file/d/1WMeFowAYiHC41WY0iwr-La1uSUPXraAw/view?usp=sharing)**
+<p align="center">
+  <img src="Prototype.jpg" alt="Prototype Image" width="500"><br>
+  <em>Figure 1: The assembled Sound-Activated Alarm circuit on a perfboard.</em>
+</p>
+
+<p align="center">
+  <strong><a href="https://drive.google.com/file/d/1WMeFowAYiHC41WY0iwr-La1uSUPXraAw/view?usp=sharing">View Full Project Documentation Here</a></strong>
+</p>
 
 ## 🛠️ Materials Required
 
